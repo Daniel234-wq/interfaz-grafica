@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Ejecutar Gestor de Usuarios" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="aplicacion.Main" />
+    <module name="intefaz grafica" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;$PROJECT_DIR$/javafx-sdk-21.0.2/lib&quot; --add-modules javafx.controls,javafx.fxml" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
